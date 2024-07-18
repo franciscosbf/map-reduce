@@ -2,3 +2,4 @@ plugins/
 bins/
 mr-tmp/
 .envrc
+go1.13/
