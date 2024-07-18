@@ -1,0 +1,4 @@
+plugins/
+bins/
+mr-tmp/
+.envrc
